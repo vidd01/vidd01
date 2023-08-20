@@ -1,4 +1,4 @@
-### Hi there, I'm Vidya Biradar
+
 
 <!--
 **vidd01/vidd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,19 +57,6 @@ Here are some ideas to get you started:
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerBi" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/New-azure-logo-square.png" alt="Azure" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="40"/> </a>
-  
-<h4 align="left">Development:</h4>
-<a href="https://www.duckcreek.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?sca_esv=557962971&rlz=1C1ONGR_enUS1039US1039&sxsrf=AB5stBi7VfwvMVqEKGT2jCCstc7G_sXG0Q:1692316803873&q=wik" alt="duckcreek" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Pandas_%28software%29" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=wikimedia+commons+pandas+logo&tbm=isch&ved=2ahUKEwj0ld699OSAAxWSEmIAHU34DUEQ2-cCegQIABAA&oq=wikimedia+commons+pandas+logo&gs_lcp=CgNpbWcQAzoICAAQCBAHEB5QyxpYjSdgmixoAHAAeACAAVyIAaEEkgEBN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=rrXeZPSGBZKliLMPzfC3iAQ&bih=861&biw=1600&rlz=1C1ONGR_enUS1039US1039#imgrc=MQyOBeq811GD5M" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sarveshpatil1/sarveshpatil1/assets/50295990/4a517f76-963b-443b-b530-24637ca70136" alt="Django" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins CI/CD" width="40" height="40"/> </a>
 
 <h4 align="left">ITSM tools:</h4>
 
