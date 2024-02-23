@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there, I'm Vidya Biradar</h1>
-<h3 align="center">A Software Engineer and Data Enthusiast!</h3>
+<h3 align="center">A Software Analyst and Data Enthusiast!</h3>
 
 - 🔭 Currently studying in **St.Clair College.**
 - 🔭 I’m currently working on **Data Engineering project in Azure**
-- 🌱 Learning **Cloud,Analytics and Data Engineering**
-- 👨‍💻 I look forward to learn more about Data pipelines and building a model
+- 🌱 Learning **Cloud, Analytics and Data Engineering**
+- 👨‍💻 I look forward to learning more about Data pipelines and building a model
 - 📫 How to reach me **VB63@myscc.ca** or **bvidya9845@gmail.com**
 - ⚡ Check out my Github profile<a href="https://github.com/vidd01" target="blank"> **here**</a>
 - 📃 View my resume [**here**](https://github.com/vidd01/vidd01/files/12907436/VidyaBiradar.pdf)
@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Work Experience:</h3>
 <h4 align="left">Aggne Global IT Services</h4>
-<h5 align="left" float="left">Software Engineer (2021-2022)</h5> 
+<h5 align="left" float="left">Software Analyst (2020-2022)</h5> 
 
-- Experienced in Duck Creek billing implementation and testing
+- Created interactive dashboards and reports using Data Visualization BI Tools such as Tableau, enhancing data-driven decision-making
 - Proficient in networking and communication skills, with leadership experience leading a team of four
 - Skilled in regression and smoke testing, with experience handling client tickets
 - Knowledgeable in QA testing and test case creation
-- Certified in Duck Creek (Skillzam) with hands-on experience using the tool
-- Involved in multiple projects including Slide, Novo, and SwiftQA
-- Beginner-level knowledge in Python and SQL
+- Demonstrated expertise in Microsoft SQL Server, optimizing database queries and reducing data retrieval times by 25%
+- Utilized Python for automation, data processing, and analysis tasks, contributing to streamlined operations
+- Collaborated with experienced stakeholders and Business Intelligence team members to ensure effective problem-solving and investigative analysis
 
 <p>
 <h3 align="left">Languages and Tools:</h3>
