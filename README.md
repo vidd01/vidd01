@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Vidya Biradar</h1>
 <h3 align="center">A Software Analyst and Data Enthusiast!</h3>
 
-- 🔭 Currently studying in **St.Clair College.**
 - 🔭 I’m currently working on **Data Engineering project in Azure**
 - 🌱 Learning **Cloud, Analytics and Data Engineering**
 - 👨‍💻 I look forward to learning more about Data pipelines and building a model
 - 📫 How to reach me **VB63@myscc.ca** or **bvidya9845@gmail.com**
 - ⚡ Check out my Github profile<a href="https://github.com/vidd01" target="blank"> **here**</a>
-- 📃 View my resume [**here**](https://github.com/vidd01/vidd01/files/12907436/VidyaBiradar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
